@@ -1,0 +1,5 @@
+
+{
+  "name": "IoT Systems Course Timetable",
+  "description": "An interactive schedule visualizer for the 'Hardware-Software Design of IoT Systems' course, featuring automated HTML parsing, Italian date support, and statistical insights."
+}
